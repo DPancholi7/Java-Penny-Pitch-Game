@@ -1,7 +1,8 @@
 Author & Developer : Dhvani Pancholi
 
-Java Penny Pitch Game ( Console Application )
-No Graphics : Only Console graphics Used
+Programming Language : Java
+Penny Pitch Game ( Console Application )
+Graphics ; Console Based Graphics
 
 Program Procedure 
 
@@ -14,3 +15,5 @@ This Program Cannot Be Submitted Without Changes
 Changes Must Be Made To Use This Code!
 Atleast 20 % Of The Code Must Be Changed!
 ***************************************************
+
+Copyright 2019, Dhvani Pancholi, All rights reserved
