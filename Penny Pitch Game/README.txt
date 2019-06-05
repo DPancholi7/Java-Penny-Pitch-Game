@@ -2,7 +2,7 @@ Author & Developer : Dhvani Pancholi
 
 Programming Language : Java
 Penny Pitch Game ( Console Application )
-Graphics ; Console Based Graphics
+Graphics : Console Based Graphics
 
 Program Procedure 
 
